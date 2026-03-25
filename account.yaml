@@ -1,0 +1,12 @@
+# Configuration
+build:
+    version: "1.0"
+
+accounts:
+    message: "Welcome to MyBank account related REST APIs"
+    contactDetails:
+        name: "Vivek Gohil"
+        email: "ghl_vivek@hotmail.com"
+    onCallSupport:
+        - 9876543210
+        - 1234567890

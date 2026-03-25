@@ -1,0 +1,12 @@
+# Configuration
+build:
+    version: "1.0"
+
+accounts:
+    message: "Welcome to MyBank account related REST APIs - UAT"
+    contactDetails:
+        name: "Mahesh Patil"
+        email: "mahesh.patil@mahadiscom.in"
+    onCallSupport:
+        - 8888777771
+        - 5555444442

@@ -1,0 +1,12 @@
+# Configuration
+build:
+    version: "1.0"
+
+accounts:
+    message: "Welcome to MyBank account related REST APIs - PRODUCTION"
+    contactDetails:
+        name: "Laxman Jadhav"
+        email: "laxman.jadhav@mahadiscom.in"
+    onCallSupport:
+        - 8855223366
+        - 9966557412
