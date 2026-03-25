@@ -3,10 +3,10 @@ build:
     version: "1.0"
 
 customer:
-    message: "Welcome to MyBank customer related PRODUCTION REST APIs - PRODUCTION"
+    message: "Welcome to MyBank customer related REST APIs - PRODUCTION"
     contactDetails:
-        name: "Mahesh Patil"
-        email: "mahesh.patil@msedcl.in"
+        name: "Vinod Bankar"
+        email: "vinod.bankar@msedcl.in"
     onCallSupport:
         - 9876543210
         - 1234567890
